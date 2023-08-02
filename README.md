@@ -1,2 +1,1 @@
-My first day
-README update from github.com
+My first readme
